@@ -256,7 +256,7 @@ Telegram-бот с технологией Retrieval-Augmented Generation для 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaGorizontomSobytiy&show_icons=true&theme=radical)
 
 ---
 
